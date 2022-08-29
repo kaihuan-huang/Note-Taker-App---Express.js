@@ -10,5 +10,8 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.16.4"
+  },
+  "devDependencies": {
+    "@hint/hint-no-inline-styles": "^1.0.13"
   }
 }
