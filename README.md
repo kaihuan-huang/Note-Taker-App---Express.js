@@ -3,14 +3,13 @@
 
 ## Table of Contents
 * [Description](#description)
-* [More](#more details)
 * [Assets](#assets)
 * [Assets](#assets)
 * [Installation](#installation)
 * [Usage](#usage)
 * [Contributing](#contributing)
 * [Questions](#questions)
-* [Make by](#make by)
+* [Makeby](#make by)
 
 ## Description
 Note Taker Application uses an Express.js back end and saves and retrieves note data from a JSON file, and then deploys the entire application to Heroku.
