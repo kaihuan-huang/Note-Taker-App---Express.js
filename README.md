@@ -1,11 +1,23 @@
 # Note-Taker-App---Express.js
+![Github licence](https://img.shields.io/badge/license-MIT-blue.svg)
+
+## Table of Contents
+* [Description](#description)
+* [More](#more details)
+* [Assets](#assets)
+* [Assets](#assets)
+* [Installation](#installation)
+* [Usage](#usage)
+* [Contributing](#contributing)
+* [Questions](#questions)
+* [Make by](#make by)
 
 ## Description
 Note Taker Application uses an Express.js back end and saves and retrieves note data from a JSON file, and then deploys the entire application to Heroku.
 
 - Deployed link: https://github.com/kaihuan-huang/Note-Taker-App---Express.js
 
-- Heroku-page link: https://github.com/kaihuan-huang/Note-Taker-App---Express.js
+- Heroku-page link: https://gentle-river-06652.herokuapp.com/notes
 
 ## More details
 
@@ -22,7 +34,6 @@ Note Taker Application uses an Express.js back end and saves and retrieves note 
 - Clicking on the Write icon in the navigation at the top of the page then presented with empty fields to enter a new note title and the note’s text in the right-hand column;
 
 
- 
 ## Assets
 
 The following images demonstrate the web application's appearance and functionality:
@@ -31,3 +42,26 @@ The following images demonstrate the web application's appearance and functional
 
 ![Password-generator-end.png](images/Note-taker.png)
 
+ 
+## Installation 
+The user should clone the repository from GitHub and download Node. 
+Run `npm i ` to install.
+Run `npm start ` to start the Note-Taker-App.
+
+## Usage 
+Use inquirer from your command line to answer questions about your project.
+View walk through video here - [drive.google.com](https://drive.google.com/file/d/1BKyXJX9jFh4Joi15KVfzaLZOtGJ3eVAN/view)<br>
+
+
+## Contributing 
+Contributors should read the installation section. 
+
+
+## Questions
+If you have any questions about this projects, please contact me directly at huangkaihuan0216@gmail.com. You can view more of my projects at https://github.com/kaihuan-huang.
+
+## Made by
+```
+Kaihuan Huang
+
+```
