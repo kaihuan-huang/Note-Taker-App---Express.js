@@ -3,7 +3,7 @@
 ## Description
 Note Taker Application uses an Express.js back end and saves and retrieves note data from a JSON file, and then deploys the entire application to Heroku.
 
-- Deployed link: https://github.com/kaihuan-huang/Work-Day-Scheduler-APP
+- Deployed link: https://github.com/kaihuan-huang/Note-Taker-App---Express.js
 
 - Heroku-page link: https://github.com/kaihuan-huang/Note-Taker-App---Express.js
 
